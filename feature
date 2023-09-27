@@ -1,1 +1,1 @@
-conflict2 decided
+conflict2 decided 1
