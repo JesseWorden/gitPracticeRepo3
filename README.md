@@ -10,14 +10,14 @@ The primary goal of this project is to set up a user-friendly website for prospe
 
 ## The website should include the following key components:
 
-### 1. Program Requirements: 
+1. ### Program Requirements: 
 Information on what prospective students need to participate in the program, including prerequisites and admission criteria.
 
-### 2. Instructor Information: 
-Details about the instructor, Melissa, including her contact information and a brief introduction.
+2. ### Instructor Information: 
+Details about the instructor, Melissa, including her contact information.
 
-### 3. BTC Overview: 
-An overview of Blackhawk Technical College, its mission, location, and relevant links.
+3. ### BTC Overview: 
+An overview of Blackhawk Technical College.
 
-4. ### Program Courses: 
+4. ### Program Courses:
 Information about the courses offered as part of the Web/Software Development Program, including course descriptions, prerequisites, and schedules.
